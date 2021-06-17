@@ -1,0 +1,7 @@
+jobs, jobWages, jobExps, jobExpFactors
+McD's, 14, 1, 1
+Junior Developer, 30, 10000,10
+Senior Developer, 48,15000,20
+Lead Developer,60, 25000,40   
+Develop Manager, 70, 40000, 80
+CTO, 120, 50000, 160
